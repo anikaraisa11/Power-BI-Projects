@@ -1,0 +1,11 @@
+ETL extract transfer load
+
+*---Virat Kohli---Problem Statement---Data Science Project----*
+
+1.Analysis of Virat's top 5 ground performance in the year 2011
+
+2. Analyze Virat's batting performance data and show great performance monthly and quarterly in the year 2018
+
+3. In Which opposition team did Virat have the most top 5 batting performances in the year 2021
+
+4.How many cricket matches did Virat play for India in the year 2017,2018, 2019 & 2020
